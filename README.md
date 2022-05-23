@@ -28,4 +28,9 @@ The client side JavaScript will then update the table with the new data.
 
 
 
-Below are a couple screenshots of the application. Enjoy!
+Below are a couple screenshots of the application. Thank you for your time!
+
+![with_arbs](https://user-images.githubusercontent.com/93163082/169875822-77eef13f-27ed-45f2-af33-0599492534ea.png)
+
+
+
