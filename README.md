@@ -36,6 +36,8 @@ Below are a couple screenshots of the application. Thank you for your time!
 ![with_arbs](https://user-images.githubusercontent.com/93163082/169875822-77eef13f-27ed-45f2-af33-0599492534ea.png)
 
 
+![checking](https://user-images.githubusercontent.com/93163082/169905553-b0518a34-114a-4ee4-8841-b170cebd7338.gif)
+
 
 
 
