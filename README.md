@@ -12,7 +12,7 @@ It then compares our odds (Caesars) for every different bet that we offer and co
 
 If our odds compared against the odds of our competitor offer an arbitrage opportunity, that bet and the details around it will be shown in the table.
 
-The table automatically updated every minute.
+The table automatically updates every minute.
 
 ## How is the code structured?
 
